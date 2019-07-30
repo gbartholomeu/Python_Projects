@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d2aabf6-9d55-4977-bb85-408f969a7365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula08_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ExerciciosPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ExerciciosPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -51,8 +48,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula08_04">
-    <configuration name="aula08_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex020">
+    <configuration name="ex016" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExerciciosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula08_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex016.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex008" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex017" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExerciciosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex008.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex010" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex018" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExerciciosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex010.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex011" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex019" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExerciciosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exoo9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex020" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExerciciosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exoo9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula08_04" />
-        <item itemvalue="Python.ex011" />
-        <item itemvalue="Python.ex010" />
-        <item itemvalue="Python.exoo9" />
-        <item itemvalue="Python.ex008" />
+        <item itemvalue="Python.ex020" />
+        <item itemvalue="Python.ex019" />
+        <item itemvalue="Python.ex018" />
+        <item itemvalue="Python.ex017" />
+        <item itemvalue="Python.ex016" />
       </list>
     </recent_temporary>
   </component>
