@@ -12,3 +12,5 @@ print('Os alunos foram sorteados na ortem: 1º {}, 2º {}, 3º {} e 4º {}'.form
                                                                                alunosMisturados[1],
                                                                                alunosMisturados[2],
                                                                                alunosMisturados[3]))
+
+'''Resposta da aula: ao invés do .format, ele imprimiu a lista diretament'''
